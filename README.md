@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pranav Nakade</h1>
-<h3 align="center">AI | Machine Learning | Data Science | IOT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav1173&label=Profile%20views&color=0e75b6&style=flat" alt="pranav1173" /> </p>
 
